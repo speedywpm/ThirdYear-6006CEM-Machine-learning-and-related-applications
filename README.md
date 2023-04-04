@@ -19,7 +19,7 @@ The project is implemented in a Jupyter Notebook and requires the following Pyth
 * matplotlib
 * scikit-learn
 
-To install the required libraries, run:
+- To install the required libraries, run:
 
 `pip install pandas numpy seaborn matplotlib scikit-learn`
 
